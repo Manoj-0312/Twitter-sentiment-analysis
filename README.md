@@ -95,21 +95,3 @@ The dataset consists of publicly available tweets retrieved via:
 
 ---
 
-## 📊 Visualization Examples
-
-- **Bar Charts**: Likes/retweets across sentiment categories
-- **Word Clouds**: Frequent terms
-- **Pie Charts**: Sentiment distribution
-- **Scatter Plots**: Sentiment vs. engagement
-
----
-
-## 🧪 Experimental Results (To be included)
-
-**Examples:**
-- % of positive, negative, neutral tweets
-- Avg retweets per sentiment category
-- Top keywords/bigrams by frequency
-- Word clouds for trending themes
-
----
